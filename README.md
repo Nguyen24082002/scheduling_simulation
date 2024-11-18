@@ -24,9 +24,8 @@ cd <project_folder>
 2. Cài đặt các thư viện yêu cầu
 Sử dụng pip để cài đặt các thư viện cần thiết:
 
-bash
-Copy code
 pip install PyQt5 matplotlib
+
 Cách chạy ứng dụng
 1. Mở terminal và điều hướng đến thư mục chứa mã nguồn:
 bash
